@@ -149,6 +149,7 @@ function AppRoutes() {
       </Routes>
     </Layout>
   );
+  
 }
 
 export default function App() {
